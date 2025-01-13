@@ -1,4 +1,8 @@
 h1{
-    background-color: lightblue;
+    background-color: rgb(173, 216, 230);
     text-align: center;
+    font-size: 42pt;
+}
+body{
+    background-color:rgb(173, 216, 230); ;
 }
